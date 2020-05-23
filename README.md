@@ -1,4 +1,4 @@
-# Coursera_capstone
+# Coursera Capstone Project
 IBM Professional Data Science Certificate
 
 ## Overview
